@@ -1,4 +1,4 @@
-FINAL PROJECT ICT2M1 ICT
+FINAL PROJECT ICT2M1 Ordering System
 
 members:
 Polendey
